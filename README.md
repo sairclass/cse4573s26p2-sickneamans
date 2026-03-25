@@ -5,9 +5,9 @@
 
 Please update this README.md to fill the blank below before submiting to UB Learn!
 
-Name: __________
+Name: _Nicholas Webb Seamans_
 
-UBIT: __________
+UBIT: _50568531_
 
 ## Implementation
 
